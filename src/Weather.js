@@ -90,7 +90,7 @@ export default function Weather() {
           Hosted by
           <a href="https://www.netlify.com">Netlify</a>
           <br />
-          <a href="https://github.com/AnnaVarda/my-awesome-weatherapp">
+          <a href="https://github.com/AnnaVarda/weather-react-weekfour">
             Open source code
           </a>{" "}
           by Anna V.
