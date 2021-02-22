@@ -65,6 +65,7 @@
   .sources {
     font-size: x-small;
     text-align: center;
+    color: black;
   }
   
   #search-text-input {

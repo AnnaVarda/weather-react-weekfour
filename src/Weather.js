@@ -88,7 +88,7 @@ export default function Weather() {
 
         <div className="sources">
           Hosted by
-          <a href="https://www.netlify.com">Netlify</a>
+          <a href="https://www.netlify.com"> Netlify</a>
           <br />
           <a href="https://github.com/AnnaVarda/weather-react-weekfour">
             Open source code
